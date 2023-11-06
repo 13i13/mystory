@@ -257,7 +257,7 @@ function App() {
 
         <p className="logo-text">
           Everyone has a story to tell<br></br>
-          Let your voice to heard
+          Let your voice be heard
         </p>
         <button class="btn-hover normal color">Tell Your Story</button>
       </div>
